@@ -1,0 +1,9 @@
+
+for-netbeans-tomcat/catalina-base/conf/catalina.policy
+for-netbeans-tomcat/catalina-base/conf/catalina.properties
+for-netbeans-tomcat/catalina-base/conf/Catalina/localhost/manager.xml
+for-netbeans-tomcat/catalina-base/conf/Catalina/localhost/ROOT.xml
+for-netbeans-tomcat/catalina-base/conf/logging.properties
+for-netbeans-tomcat/catalina-base/conf/server.xml
+for-netbeans-tomcat/catalina-base/conf/tomcat-users.xml
+for-netbeans-tomcat/catalina-base/conf/web.xml

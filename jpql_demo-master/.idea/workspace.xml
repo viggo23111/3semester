@@ -5,13 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="506c4500-32af-4183-b6ee-b2c568c5eecf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../for-netbeans-tomcat/catalina-base/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../for-netbeans-tomcat/mysql-connector/mysql-connector-java-8.0.28.zip" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2JPA/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2JPA/src/main/java/entities/Semester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2JPA/src/main/java/entities/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2JPA/src/main/java/entities/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2JPA/src/main/java/entities/TeacherSemester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2JPA/src/main/java/entities/TeacherSemesterPK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2JPA/src/main/java/facades/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2JPA/src/main/java/mappers/StudentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week2JPA/src/test/java/facades/facadeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classicModels/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../classicModels/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,10 +136,22 @@
       <option name="presentableId" value="Default" />
       <updated>1644408725566</updated>
       <workItem from="1644408729366" duration="8096000" />
+      <workItem from="1644485676857" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

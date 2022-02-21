@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8da7e18-3e6c-4b36-97c8-809465ef7d75" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../for-netbeans-tomcat/catalina-base/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../for-netbeans-tomcat/mysql-connector/mysql-connector-java-8.0.28.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="f8da7e18-3e6c-4b36-97c8-809465ef7d75" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,6 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jpql_demo-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -97,6 +98,7 @@
       <workItem from="1644242666670" duration="3355000" />
       <workItem from="1644308112033" duration="689000" />
       <workItem from="1644418784614" duration="942000" />
+      <workItem from="1644485636336" duration="39000" />
     </task>
     <servers />
   </component>
