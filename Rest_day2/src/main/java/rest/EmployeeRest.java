@@ -14,11 +14,11 @@ import javax.ws.rs.core.NewCookie;
 import javax.ws.rs.core.Response;
 import java.util.List;
 
-//Todo Remove or change relevant parts before ACTUAL use
-@Path("employee")
-public class RenameMeResource {
+@Path("/emp")
+public class EmployeeRest {
+
     EmployeeFacade facade = new EmployeeFacade();
-    private static final Gson gson = new GsonBuilder().setPrettyPrinting().create();
+    Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
     @GET
     @Path("/{id}")
@@ -55,4 +55,5 @@ public class RenameMeResource {
                 .entity(gson.toJson(facade.addEmployee(addEmployee)))
                 .build();
     }
+
 }
